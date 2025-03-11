@@ -4,6 +4,4 @@ about:
   template: jolla
 ---
         
-# page content excluded for brevity ~
-
 I’m a PhD student in statistical data analysis at G(h)ent University. My main research is about latent interactions. More specifically, I’m involved with the "structural-after-measurement" (SAM) approach and its extensions in the context of nonlinear effects. My advisor is Prof. Yves Rosseel (yes, the lavaan guy). Besides this, I’m also a co-lead together with some wonderful people for one team at Framework for Open and Reproducible Research Training (FORRT).
