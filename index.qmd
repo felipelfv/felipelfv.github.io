@@ -1,7 +1,18 @@
 ---
 title: "Felipe Fontana Vieira"
+image: media/profilegent.JPG
+toc: false
 about: 
   template: jolla
+  image-shape: round
+  image-width: 18em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/felipe-fontana-vieira-b00258200/
+    - text: GitHub
+      href: https://github.com/felipelfv
+    - text: Email
+      href: felipe.fontanavieira@ugent.be
 ---
         
 I’m a PhD student in statistical data analysis at G(h)ent University. My main research is about latent interactions. More specifically, I’m involved with the "structural-after-measurement" (SAM) approach and its extensions in the context of nonlinear effects. My advisor is Prof. Yves Rosseel (yes, the lavaan guy). Besides this, I’m also a co-lead together with some wonderful people for one team at Framework for Open and Reproducible Research Training (FORRT).
