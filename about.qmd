@@ -4,7 +4,7 @@ title: "Curriculum vitae"
 
 ## Education
 
--   2024-*present* \| PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University
+-   2024-*present* \| PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University.
 
 -   2023-*present* \| Subsequent Master's degree in Statistical Data Analysis (M.Sc.), Faculty of Science, Ghent University.
 
@@ -12,6 +12,18 @@ title: "Curriculum vitae"
 
 -   2018-2021 \| Bachelor's degree in Psychology, Faculty of Psychology and Educational Sciences, University of Coimbra.
 
+## Work and Research experience
+
+- 2024-*present* \| PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University.
+
+- November 2023 - May 2024 \| Part-time Desk Researcher, Verian Group Belgium.
+
+- May 2023 - September 2023 \| Part-time Research Assistant, Methods, Individual and Cultural Differences, Affect and Social Behavior (OE), KU Leuven. 
+
+- August 2022 — June 2023 \| Part-time Research Assistant, Center for Social and Cultural Psychology (CSCP), KU Leuven.
+
+- September 2022 — March 2023 \| Full-time Research Intern, Center for Social and Cultural Psychology (CSCP), KU Leuven.
+
+- February 2021 — June 2021 \| Research Project TEACHmi, Faculty of Psychology and Educational Sciences, University of Coimbra. 
+
 ## Publications
-
-
