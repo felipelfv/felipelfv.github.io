@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Felipe Fontana Vieira",
     "section": "",
-    "text": "Hello! My name is Felipe. I’m a PhD student in statistical data analysis at G(h)ent University. My main research is about latent interactions. More specifically, I’m involved with the “structural-after-measurement” (SAM) approach and its extensions in the context of nonlinear effects. My advisor is Prof. Yves Rosseel (yes, the lavaan guy). Besides that, I’m also a co-lead together with some wonderful people for one team at Framework for Open and Reproducible Research Training (FORRT)."
+    "text": "Hello! My name is Felipe. I’m a PhD student in statistical data analysis at G(h)ent University. My main research is about latent interactions. More specifically, I’m involved with the “structural-after-measurement” (SAM) approach and its extensions in the context of nonlinear effects. My supervisor is Prof. Yves Rosseel (yes, the lavaan guy). Besides that, I’m also a co-lead together with some wonderful people for one team at Framework for Open and Reproducible Research Training (FORRT)."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Education",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "2024-present | PhD Research in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University\n2023-present | Subsequent Master’s degree in Statistical Data Analysis (M.Sc.), Faculty of Science, Ghent University.\n2021-2023 | Master’s degree in Psychology (Theory and Research) (M.Sc.), Faculty of Psychology and Educational Sciences, KU Leuven.\n2018-2021 | Bachelor’s degree in Psychology, Faculty of Psychology and Educational Sciences, University of Coimbra."
   }
 ]
