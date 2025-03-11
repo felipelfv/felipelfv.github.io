@@ -9,8 +9,15 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Education",
+    "title": "Curriculum vitae",
     "section": "",
     "text": "2024-present | PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University\n2023-present | Subsequent Master’s degree in Statistical Data Analysis (M.Sc.), Faculty of Science, Ghent University.\n2021-2023 | Master’s degree in Psychology (Theory and Research) (M.Sc.), Faculty of Psychology and Educational Sciences, KU Leuven.\n2018-2021 | Bachelor’s degree in Psychology, Faculty of Psychology and Educational Sciences, University of Coimbra."
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "Curriculum vitae",
+    "section": "Publications",
+    "text": "Publications"
   }
 ]

@@ -1,6 +1,8 @@
 ---
-title: "Education"
+title: "Curriculum vitae"
 ---
+
+## Education
 
 -   2024-*present* \| PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University
 
@@ -9,3 +11,7 @@ title: "Education"
 -   2021-2023 \| Master's degree in Psychology (Theory and Research) (M.Sc.), Faculty of Psychology and Educational Sciences, KU Leuven.
 
 -   2018-2021 \| Bachelor's degree in Psychology, Faculty of Psychology and Educational Sciences, University of Coimbra.
+
+## Publications
+
+
