@@ -14,16 +14,24 @@ title: "Curriculum vitae"
 
 ## Work and Research experience
 
-- 2024-*present* \| PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University.
+-   2024-*present* \| PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University.
 
-- November 2023 - May 2024 \| Part-time Desk Researcher, Verian Group Belgium.
+-   November 2023 - May 2024 \| Part-time Desk Researcher, Verian Group Belgium.
 
-- May 2023 - September 2023 \| Part-time Research Assistant, Methods, Individual and Cultural Differences, Affect and Social Behavior (OE), KU Leuven. 
+-   May 2023 - September 2023 \| Part-time Research Assistant, Methods, Individual and Cultural Differences, Affect and Social Behavior (OE), KU Leuven.
 
-- August 2022 — June 2023 \| Part-time Research Assistant, Center for Social and Cultural Psychology (CSCP), KU Leuven.
+-   August 2022 — June 2023 \| Part-time Research Assistant, Center for Social and Cultural Psychology (CSCP), KU Leuven.
 
-- September 2022 — March 2023 \| Full-time Research Intern, Center for Social and Cultural Psychology (CSCP), KU Leuven.
+-   September 2022 — March 2023 \| Full-time Research Intern, Center for Social and Cultural Psychology (CSCP), KU Leuven.
 
-- February 2021 — June 2021 \| Research Project TEACHmi, Faculty of Psychology and Educational Sciences, University of Coimbra. 
+-   February 2021 — June 2021 \| Research Project TEACHmi, Faculty of Psychology and Educational Sciences, University of Coimbra.
 
-## Publications
+## Poster Presentations and Talks
+
+- \textbf{Vieira, F. F.}. A Gentle Introduction to Structural Equation Modeling (Invited talk). Faculty of Education, Cambridge University, February 10th, 2025.
+
+- \textbf{Vieira, F. F.} (presenting author), Jasini, A., Tekin E. A., \& Mesquita, B. (2023). Majorities’ emotions acculturate too: The role of intergroup friendships and clarity of minority emotion norms. Poster presented at the ASPO 2023, Utrecht, Netherlands, April 20th-21st, 2023.
+
+- Costantino, A., Van Hove, L. (presenting author), \textbf{Vieira F. F.}, \& Op de Beeck, H. (2023). Does expertise affect the geometry of object representations in the brain?. Poster presented at the BAPS 2023, Mons, Belgium, May 25th-26th, 2023.
+
+
