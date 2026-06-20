@@ -1,24 +1,38 @@
 [
   {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "structest   \n\n\nR package implementing statistical tests to reject the structural interpretation of a latent factor model."
+  },
+  {
+    "objectID": "software.html#r-packages",
+    "href": "software.html#r-packages",
+    "title": "Software",
+    "section": "",
+    "text": "structest   \n\n\nR package implementing statistical tests to reject the structural interpretation of a latent factor model."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Felipe Fontana Vieira",
     "section": "",
-    "text": "Hello! My name is Felipe. I’m a PhD student in statistical data analysis at G(h)ent University. My main research is about latent interactions and quadratic effects. More specifically, I’m involved with the “structural-after-measurement” (SAM) approach and its extensions in the context of nonlinear effects. My supervisor is Prof. Yves Rosseel (yes, the lavaan guy). Besides that, I’m also a co-lead with some wonderful people for one team at Framework for Open and Reproducible Research Training (FORRT)."
+    "text": "Hello! My name is Felipe. I’m a PhD student in statistical data analysis at Ghent University. My main research is about nonlinear effects among latent variables. More specifically, I’m involved with the structural-after-measurement (SAM) approach and its extensions in the context of interactions and quadratic effects. My supervisor is Prof. Yves Rosseel (yes, the lavaan guy). Besides that, I’m also a co-lead for one team at Framework for Open and Reproducible Research Training (FORRT)."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Curriculum vitae",
     "section": "",
-    "text": "2024-present | PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University.\n2023-present | Subsequent Master’s degree in Statistical Data Analysis (M.Sc.), Faculty of Science, Ghent University.\n2021-2023 | Master’s degree in Psychology (Theory and Research) (M.Sc.), Faculty of Psychology and Educational Sciences, KU Leuven.\n2018-2021 | Bachelor’s degree in Psychology, Faculty of Psychology and Educational Sciences, University of Coimbra."
+    "text": "2024-present | PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University.\n2023-2026 | Subsequent Master’s degree in Statistical Data Analysis (M.Sc.), Faculty of Science, Ghent University. Cum Laude\n2021-2023 | Master’s degree in Psychology (Theory and Research) (M.Sc.), Faculty of Psychology and Educational Sciences, KU Leuven. Cum Laude\n2018-2021 | Bachelor’s degree in Psychology, Faculty of Psychology and Educational Sciences, University of Coimbra."
   },
   {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
     "title": "Curriculum vitae",
-    "section": "Publications",
-    "text": "Publications"
+    "section": "",
+    "text": "2024-present | PhD Researcher in Statistical Data Analysis, Department of Data-Analysis, Faculty of Psychology and Educational Sciences, Ghent University.\n2023-2026 | Subsequent Master’s degree in Statistical Data Analysis (M.Sc.), Faculty of Science, Ghent University. Cum Laude\n2021-2023 | Master’s degree in Psychology (Theory and Research) (M.Sc.), Faculty of Psychology and Educational Sciences, KU Leuven. Cum Laude\n2018-2021 | Bachelor’s degree in Psychology, Faculty of Psychology and Educational Sciences, University of Coimbra."
   },
   {
     "objectID": "about.html#work-and-research-experience",
@@ -32,6 +46,13 @@
     "href": "about.html#poster-presentations-and-talks",
     "title": "Curriculum vitae",
     "section": "Poster Presentations and Talks",
-    "text": "Poster Presentations and Talks\n\nVieira, F. F.. A Gentle Introduction to Structural Equation Modeling (Invited talk, hosted by the Quantitative Group). Faculty of Education, Cambridge University, February 10th, 2025.\nVieira, F. F. (presenting author), Jasini, A., Tekin E. A., & Mesquita, B. (2023). Majorities’ emotions acculturate too: The role of intergroup friendships and clarity of minority emotion norms. Poster presented at the ASPO 2023, Utrecht, Netherlands, April 20th-21st, 2023.\nCostantino, A., Van Hove, L. (presenting author), Vieira, F. F., & Op de Beeck, H. (2023). Does expertise affect the geometry of object representations in the brain?. Poster presented at the BAPS 2023, Mons, Belgium, May 25th-26th, 2023."
+    "text": "Poster Presentations and Talks\n\nVieira, F. F. (Presenting Author), Slupphaug, K. S., & Rosseel, Y. (2026). Evaluating Local Structural-After-Measurement (LSAM) and Traditional Approaches for the Estimation of Complex Nonlinear Effects Among Latent Variables. Oral Presentation at the SEM Working Group Meeting, organized by IBE and IFiS PAN, Warsaw, Poland, April 15th-17th, 2026.\nVieira, F. F. (Presenting Author), & Rosseel, Y. (2025). Nonlinear Effects in Structural Equations With Latent Variables. Oral Presentation at the European Congress of Methodology, University of La Laguna, Tenerife, Spain, July 23rd-25th, 2025.\nVieira, F. F. (2025). A Gentle Introduction to Structural Equation Modeling (Invited Talk, Hosted by the Quantitative Group). Faculty of Education, Cambridge University, February 10th, 2025.\nVieira, F. F. (Presenting Author), Jasini, A., Tekin, E. A., & Mesquita, B. (2023). Majorities’ Emotions Acculturate too: The Role of Intergroup Friendships and Clarity of Minority Emotion Norms. Poster Presented at the ASPO 2023, Utrecht, Netherlands, April 20th-21st, 2023.\nCostantino, A., Van Hove, L. (Presenting Author), Vieira, F. F., & Op de Beeck, H. (2023). Does Expertise Affect the Geometry of Object Representations in the Brain? Poster Presented at the BAPS 2023, Mons, Belgium, May 25th-26th, 2023."
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "Curriculum vitae",
+    "section": "Publications",
+    "text": "Publications\n\nPeer-Reviewed Articles\n\nBartoš, F., Sarafoglou, A., Godmann, H. R., Sahrani, A., Klein Leunk, D., Gui, P. Y., … Vieira, F. F., et al. (2025). Fair coins tend to land on the same side they started: Evidence from 350,757 flips. Journal of the American Statistical Association, 120(552), 2118–2127.\nJasini, A., Tekin, E. A., Vieira, F. F., & Mesquita, B. (2024). Majorities’ emotions acculturate too: The role of intergroup friendships and clarity of minority emotion norms. International Journal of Intercultural Relations, 98, 101923.\n\n\n\nPreprints and Working Papers\n\nVieira, F. F., Slupphaug, K., & Rosseel, Y. (2026, May 15). Evaluating Local Structural-After-Measurement (LSAM) and Traditional Approaches for the Estimation of Complex Nonlinear Effects Among Latent Variables. Retrieved from osf.io/preprints/psyarxiv/xk8um_v3. Accepted for publication in Psychological Methods.\nCostantino, A. I., Platonov, A., Vieira, F. F., Van Hove, E., Bilalić, M., et al. (2025). Low-dimensional and optimised representations of high-level information in the expert brain [Preprint]. bioRxiv. https://doi.org/10.1101/2025.11.12.688012. Accepted for publication in Nature Communications.\nVieira, F. F., Geller, J., & Rodrigues, B. (2026, January 28). Why Risk it, When You Can {rix} it: A Tutorial for Computational Reproducibility Focused on Simulation Studies. Retrieved from osf.io/preprints/psyarxiv/a3e8v_v1\nVieira, F. F., & Rosseel, Y. (2026). Latent Variables Moderated Mediation Using Correct and Misspecified Models. https://doi.org/10.5281/zenodo.20703258\nJustus, V. L., & Vieira, F. F. (2026). Covariate-adjusted statistical dependence representation through partial copulas: Bounds and new insights [Preprint]. arXiv. https://arxiv.org/abs/2603.10941\nHartmann, H., Azevedo, F., Röseler, L., Wallrich, L., Aldoh, A., Elsherif, M., Liu, M., … Vieira, F. F., et al. (2025). Tracking and mainstreaming replications in the social, cognitive, and behavioral sciences [Preprint]. OSF. https://doi.org/10.31222/osf.io/ad2w6_v5\nJaný, M., Xiao, Q., Yeung, S., Ben-Shachar, M. S., Caldwell, A., Cousineau, D., … Vieira, F. F., et al. (2024). Guide to effect sizes and confidence intervals. OSF. https://doi.org/10.17605/OSF.IO/D8C4G"
   }
 ]

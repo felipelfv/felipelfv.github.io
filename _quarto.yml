@@ -9,8 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: "CV"
-        
+        text: "Curriculum vitae"
+      - href: software.qmd
+        text: "Software"
+
 format:
   html:
     theme:

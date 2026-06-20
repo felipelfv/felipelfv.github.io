@@ -1,0 +1,15 @@
+---
+title: "Software"
+---
+
+## R Packages
+
+:::: {layout="[1,4]" layout-valign="center"}
+::: text-center
+[![](https://raw.githubusercontent.com/felipelfv/structest/main/man/figures/logo.png){width="120px" fig-alt="structest logo"}](https://github.com/felipelfv/structest)
+
+**structest**   [<i class="bi bi-github"></i>](https://github.com/felipelfv/structest)
+:::
+
+R package implementing statistical tests to reject the structural interpretation of a latent factor model.
+::::
